@@ -1,0 +1,38 @@
+Company_name ,Funding_round,Date,Amount_usd,Investor,No Of Investors
+Flipkart,Series A - Flipkart,01-10-2009,1.0,"Accel, Tiger Global Management",2
+Flipkart,Series B - Flipkart,16-06-2010,10.0,Tiger Global Management,1
+Flipkart,Series C - Flipkart,16-06-2011,20.0,"KG Investment, Tiger Global Management",2
+Flipkart,Series D - Flipkart,24-08-2012,150.0,"Accel,ICONIQ Capital,Naspers,Tiger Global Management",4
+Flipkart,Series E - Flipkart,10-07-2013,200.0,"Accel,ICONIQ Capital,Naspers,Tiger Global Management",4
+Flipkart,Series E - Flipkart,08-10-2013,160.0,"Dragoneer Investment Group,Morgan Stanely, sofina, Vulcan Capital, Tiger Global Mnagement,ICONIQ Growth",6
+Flipkart,Series F - Flipkart,26-05-2014,210.0,"DST Global,Tiger Global Management, ICONIQ Growth,Naspers",4
+Flipkart,Series G - Flipkart,29-07-2014,1.0,"Accel, Margan Stanely,Sofina,Vulcan Capital,GIC,ICONIQ Capital,DST Global, Naspers,The Vanguar Global",9
+Flipkart,Series H - Flipkart,21-12-2014,700.0,"Baillie Gifford,Qatar Investment Authority,GIC,ICONIQ Capital,DST Global,Naspers,The Vanguar Group,Steadiview,T.RoweePrice",9
+Flipkart,Series I - Flipkart,04-06-2015,50.0,Morgan Stanely,1
+Flipkart,Private Equity- Flipkart,28-07-2015,700.0,"ICONIQ Growth,Steadview Capital,Tiger Global Management",3
+Flipkart,Dept Funding- Flipkart,07-05-2016,67.0,HDFC Bank,1
+Flipkart,Seies J-Flipkart,10-04-2017,1.0,"eBay,Microsoft,Tencent",3
+Flipkart,Private Equity- Flipkart,26-06-2017,71.0,Naspers,1
+Flipkart,Private Equity- Flipkart,10-08-2017,2.5,SoftBank Vision Found,1
+Flipkart,Corporate Round-Flipkart ,25-10-2017,0.0,"eBay,Microsoft,Tencent",1
+Flipkart,Secondary Market-Flipkart,04-09-2019,14.5,Tiger Global Management,1
+Flipkart,Corporate Round-Flipkart ,10-09-2019,224.85,Flipkart,1
+Flipkart,Corporate Round-Flipkart ,14-07-2020,1.2,Walmart,1
+Flipkart,Corporate Round-Flipkart ,16-09-2020,62.8,Tencent,1
+Flipkart,Private Equity- Flipkart,12-07-2021,3.6,"Antara Capital Master Fund,CPP Investments,DisruptAD,Franklin Templeton,GIC,Khazanah Nasional,Qatar Investment Authority,SoftBank Vision Fund,Tencent,Tiger Global Management,Walmart,Willoughby Capital",12
+Flipkart,Secondary Market-Flipkart,13-06-2022,264.0,Tencent,1
+Flipkart,Secondary Market-Flipkart,13-07-2023,1.4,Walmart,1
+Snapdeal,Series A-Snapdeal,01-01-2009,0.0,Kalaari Capital,1
+Snapdeal,Series A-Snapdeal,25-01-2011,12.0,"Kalaari Capital,Nexus Venture Partners",2
+Snapdeal,Series B-Snapdeal,01-07-2011,40.0,"Kalaari Capital,Nexus Venture Partners,Bessemer Venture Parters",3
+Snapdeal,Series C-Snapdeal,01-04-2013,50.0,"Bessemer Venture Parters,Cambrian Ventures, eBay,Intel Capital,Kalaari Capital,Nexus Venture Parters,Recruit,Holdings,RTP Global,Saama Capital",9
+Snapdeal,Undisclosed-Snapdeal,13-08-2013,75.0,SoftBank Capital,1
+Snapdeal,Series D-Snapdeal,26-02-2014,134.0,"Bessemer Venture Parters,eBay,Intel Capital,Kalaari Capital,Nexus Venture Parters,Saama Capital",6
+Snapdeal,Series E-Snapdeal,20-05-2014,100.0,"BlackRock,Myriad Group,PremjiInvest,TemasekHoldings,Tybourne Capital Management",5
+Snapdeal,Undisclosed-Snapdeal,27-08-2014,0.0,Ratan TaTa,1
+Snapdeal,Undisclosed-Snapdeal,27-10-2014,627.0,SoftBank Telecom corp,1
+Snapdeal,Series G-Snapdeal,01-08-2015,500.0,"Alibaba Group,Bank Capital,Foxconn Technology Group,PremjiInvest,SoftBank",3
+Snapdeal,Secondary Market-Flipkart,14-02-2016,200.0,"Iron Pillar,Ontaria,Teachers Pension Plansodium",2
+Snapdeal,Undisclosed-Snapdeal,26-08-2016,21.0,Clouse SA,1
+Snapdeal,Undisclosed-Snapdeal,29-05-2017,17.56,"Kunal Bahil,Nexus Venture Parters, Rohith Bansel",3
+Snapdeal,Undisclosed-Snapdeal,23-07-2019,0.0,Anand Piramal,1
